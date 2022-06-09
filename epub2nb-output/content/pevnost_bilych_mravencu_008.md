@@ -11,12 +11,16 @@ Tenkrát jsem v novinách nalezl dosti nápadné a patrně i dosti nákladné
 
 Inzerát vypadal lákavě:
 
+  
+
 _Přijme se mladý vědecký pracovník-entomolog,  
 se zkušenostmi z biologie mravenců a všekazů.  
 Účast na základním laboratorním výzkumu  
 a podíl na expedicích do světových lokalit.  
 Předběžné nabídky urychleně hlaste  
 telefonicky do hotelu Alcron, pokoj č. 69._
+
+  
 
 Není sice právě zvykem pospíchat při výběru vědeckých pracovníků a tím méně je shánět telefonem, ale kdoví, jaký podivín inzerát uveřejnil. Nenapadlo mne tenkrát ani, že „mladých vědeckých pracovníků se zkušenostmi z biologie mravenců a všekazů“ je u nás jako za krejcar plutonia, co by na prstech spočítal. A že je například já sám všechny výborně osobně znám – a jak by také ne! Štědrý autor inzerátu si mohl ušetřit výdaje, kdyby byl promluvil s kterýmkoli z nás. Člověk je zkrátka dodatečně vždycky chytřejší…
 
