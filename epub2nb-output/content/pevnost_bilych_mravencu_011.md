@@ -3,8 +3,6 @@ title: Přízrak smrti
 contentType: prose
 ---
 
-  
-
 Mýtina vypadala jako scéna ze strašidelného filmu. Všude se kývali a troubili Jagonguovi bratříčci. Velice neelegantním pohybem, jakoby sražené, se po prašné cestě přihnaly i twiggy, stádečko žiraf. Maličké, sotva metr vysoké mládě upalovalo za nimi. Zdálo se mi, že jsem na okraji pralesa, za tančícími slony, zahlédl na okamžik i pravěký obrys mrzutého strýce nosorožce, který si zlostně odfrkl nad tím hemžením a s bojovně vztyčeným ocáskem se zase ponořil do houští. Přísahat bych na to nemohl.
 
 V každém případě jsem měl, alespoň prozatím, od přívětivého pana Barnarda pokoj. Panstvo z hospody U nosorožce horempádem opustilo potápějící se koráb krčmy se sraženými sloupy a pořádné pocuchanými rákosovými stěnami, naskákalo do landroveru a nepohodlně odjelo (několik mužů stálo na stupátkách nebo sedělo na rozložité kapotě) směrem k místu, kde přistála cesna.

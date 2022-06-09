@@ -3,8 +3,6 @@ title: Bouře
 contentType: prose
 ---
 
-  
-
 „Víš ty co, Bratříčku slonů? Raději si to ještě jednou zopakujeme, ano?“
 
 Slunce už rozpálilo balvany, mezi nimiž jsme se skrývali, jak pec. Horko sálalo ze všech stran a černý sopečný písek, promísený hrudkami ztvrdlého popela, mohl znamenitě posloužit k upečení vajec na tvrdo – kdybychom ovšem nějaká vejce měli. Žár naznačoval, že se schyluje k bouřce.

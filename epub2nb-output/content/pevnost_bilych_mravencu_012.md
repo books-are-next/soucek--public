@@ -3,8 +3,6 @@ title: Starý Liu
 contentType: prose
 ---
 
-  
-
 „Ano, je to on,“ řekl potěšeně Lao Liu, Starý Liu, když jsem vyjmul z kapsy košile nefritový obrázek s řezbou jelena. Vzal jsem si ho s sebou z Prahy, ačkoli mne poručík Šolta upozorňoval na jeho vzácnost. Jeho šetrná duše asi neschvalovala takové riziko.
 
 „Je to on, milý mladší bratře! Dobře, že jste ho přinesl. Nežli jsem si vás řádně prohlédl, pochyboval jsem dokonce o vaší totožnosti. Velmi jste se změnil, příteli. Opravdu!“

@@ -3,8 +3,6 @@ title: Vyslanec země bílých mravenců (část deníku)
 contentType: prose
 ---
 
-  
-
 Snad má doktor Klátil pravdu, snad se opravdu tímto způsobem dopracuji ztracených šesti měsíců, vymazaných ze života a dokonale zapomenutých. Zatím si jen bezradně prohlížím nefritového jelínka, podivný měřicí přístroj, v němž byli kdysi zřejmě uzavřeni termiti, nejspíše druhu Termes mangenzis, jehož vojáci jsou vyzbrojeni na hlavách jakýmisi choboty, stříkačkami, vystřelujícími proti nepřátelům kapky pronikavě čpavé tekutiny. Ani to však nepomohlo rozluštit účel přístroje, ačkoli jsem s ním zřejmě pracoval. Soudím tak podle toho, že jsem podvědomě, bez námahy nalezl všechny mechanismy obsluhy a na pokyn poručíka Šolty, abych vyměnil baterii, bez váhání odsunul sotva znatelné víčko, skrývající maličký elektrický článek, podobný tabletce aspirinu.
 
 Nedovedu nic říci ani o pistoli, kterou mi poručík ukázal. Nevím, nepamatuji se. Vzpomínky, začínající opět strašným snem o obrovském termitu, kráčejícím městem, a o obludném zvonu, končí téměř o půl roku dříve podivnou příhodou, jež se odehrála jednoho červnového dne. Od tohoto okamžiku nevím nic, vůbec nic.
