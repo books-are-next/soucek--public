@@ -3,8 +3,6 @@ title: Člověk z Měsíce
 contentType: prose
 ---
 
-  
-
 Zvon tak obrovský, že asi vznikl roztavením a novým slitím všech zvonů světa, se pomalu rozhoupal a naplnil prostor duněním, rozechvívajícím zdi domů, kovovým třeskem a nesnesitelně pronikavými vibracemi, drásajícími sluch. Město se svíjelo pod bičem toho hrozného zvuku, tu a tam se sesula budova v oblacích prachu jak domek z karet. Hejna vyděšených holubů šíleně narážela do věží (pokud ještě věže stály a pokud je zvon už nerozdrtil na rudou a šedou změť cihel, omítky a malty), hledala záchranu v slepých oknech i pod oblouky mostů. Lidé někam zmizeli – snad museli všichni zastávat práci zvoníků u obrovských lan, visících od vražedného zvonu.
 
 To všechno ještě nebylo nejhorší. Věděl jsem, že skutečná hrůza teprve přijde, že zvon, řícení domů a požáry, které se už počaly tu a tam objevovat, jsou jenom předehrou, jenom úvodem k čemusi daleko horšímu.

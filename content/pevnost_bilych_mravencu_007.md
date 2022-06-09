@@ -3,8 +3,6 @@ title: Železné mouchy
 contentType: prose
 ---
 
-  
-
 Franta Benda se na mne ode dveří pátravě zadíval, naklonil zcela po svém zvyku hlavu, ozdobenou značně prořídlými slámovými vlasy, napřed k pravému, pak k levému rameni, a nakonec prohlásil: „Ne, docela určitě ne. Tohle přece…“
 
 „Ale ano, Frantíku! To víš, že jsem to já. A jak ti dupou mravenci? Pořád ještě to tvoje zamilované Tetramorium caespitum? Už ti neutíkají doma po pokoji? Pamatuješ, jak jsme je jednou honili z gauče?“

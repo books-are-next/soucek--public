@@ -3,8 +3,6 @@ title: Setkání nad Bejrútem
 contentType: prose
 ---
 
-  
-
 Čtyři turbíny „osmnáctky“ jednotvárně předly. Pod námi bylo indigově modré Středozemní moře, hezká letuška roznášela po kabině minerálku (zdarma) anebo co kdo chtěl (proti hotovému zaplacení), severní cíp Kypru, lemovaný bělavou čárečkou příboje jako špatně vyladěný obraz na televizní obrazovce nám vyplul vstříc, podobný přídi pirátské lodi.
 
 Měl jsem nutkavý a po pravdě řečeno dosti nepříjemný pocit, že jsem tohle všechno už jednou zažil, moře, ostrovy, bzučení turbín, zkrátka cestu z Prahy přes Bělehrad do Bejrútu. Znáte to, že? Psychiatři takové pocity docela přesně pojmenovali, jenomže jsem už dávno zapomněl jak. Ptát se letušky, zda si na mne náhodou nepamatuje, by bylo určitě zbytečné. V letadle se jen za poslední měsíce vystřídaly tisíce lidí a já rozhodně nejsem tak nápadný krasavec, aby právě mne uchovala nadosmrti v paměti. Když mne nepoznal ani Fanýnek Bendů…

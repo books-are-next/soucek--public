@@ -3,8 +3,6 @@ title: Jitro
 contentType: prose
 ---
 
-  
-
 Sestupovali jsme po západních svazcích Hor-které-se-chvějí. Jejich název bude ostatně docela jistě brzy změněn v nějaký jiný, vhodnější. Lao Liu přes svoje protesty odpočíval na improvizovaných nosítkách. Jak se zdálo, vůbec Buchariho a Songu netížila. Nijak se netajili dobrou náladou, vyplývající z potěšitelného faktu, že se víceméně zdrávi a v pořádku vracejí z říše Pána bílých mravenců.
 
 Stejně skvěle naložený byl i Bratříček slonů, znovu a znovu s ustavičnými přídavky vyprávějící své největší dobrodružství s Přízrakem smrti, jemuž statečně vytrhl vraždící jazyk. Obávám se, že mnoho mužů v širém okolí hor bude v příštích letech poslouchat tento příběh až do úplného omrzení…
@@ -19,7 +17,11 @@ Stejně skvěle naložený byl i Bratříček slonů, znovu a znovu s ustavi�
 
 Jagongua se chvíli ošíval, chvíli váhal, ale pak přece jen zdráhavě rozvázal šňůrku, stahující ušmudlaný kožený váček, a se zřejmou pýchou mi podal svůj mocný amulet, ozdobný špendlík ve tvaru slona, posázeného strakatými broušenými kousky skla. Na zadní straně tretky byl drobný nápis:
 
+  
+
 BIJOUX DE BOHÊME – MADE IN CSSR
+
+  
 
 „Vidíš, bwana,“ upozorňoval mne s pýchou maharadži, chlubícího se svým rodinným pokladem, „má vztyčený chobot – a to je moc dobré! Je to znamení štěstí.“
 

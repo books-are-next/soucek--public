@@ -3,8 +3,6 @@ title: Modré plameny
 contentType: prose
 ---
 
-  
-
 Srdce mi takřka pukalo námahou a šaty jsem měl roztrhané ostrými bambusovými stvoly na cáry. Vedle mne ležel, s hlavou přitisknutou k zemi, Jagongua, jektající zaručeně osvědčená zaříkávání k Mšimba-Mšambovi a potahující za šňůrku svého kapandi tak vydatně, div je neutrhl. Lao Liu a oba humoristé z kmene Kru byli schováni v houští několik kroku od nás.
 
 Černý vrtulník ještě několikráte zakroužil a pak odlétl na šeřícím se nebi směrem k budovám, seskupeným kolem bílé koule.

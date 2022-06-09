@@ -3,8 +3,6 @@ title: Příběh bílých mravenců
 contentType: prose
 ---
 
-  
-
 Hvězdy se zvolna kutálely po sametovém nebi. Tu a tam na zlomek vteřiny zazářila létavice a teď, před svítáním, se mezi souhvězdími probatolily tři nebo čtyři umělé družice. Napadlo mne, jak překvapeni by byli hosté z vesmíru, kdyby na oběžných drahách kolem naší planety nalezli celou spoustu družic, nosných raket, kosmických stanic a všelijakého jiného smetí – a tady, ve veldu, Bratříčka slonů Jagonguu se svazkem oštěpů a s ušmudlaným amuletem k získání přízně všemocného Mšimba-Mšamby. Pokud by byli vychováni vědeckofantastickými romány jako my, nepochopili by asi, jak jsou na jedné a téže planetě možné takové rozdíly a proč například nemá Jagongua svůj osmiválec. A už vůbec by se patrně nepodařilo vysvětlit, proč se tu schováváme v jeskyni jak pralidé, proč spíme s jedním okem otevřeným a posloucháme, jestli na sopečném písku nezaskřípou kroky žoldnéřů Pána bílých mravenců…
 
 „Nespíte, můj mladší bratře?“ ozvalo se šeptem vedle mne.
