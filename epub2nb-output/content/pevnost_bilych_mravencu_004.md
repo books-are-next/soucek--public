@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Pevnost bílých mravenců](https://search.mlp.cz/cz/titul/pevnost-bilych-mravencu/173730/#book-content) tak, jak bylo vydáno nakladatelstvím Profil v Ostravě v roce 1972. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 12. 6. 2020.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

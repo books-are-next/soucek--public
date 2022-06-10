@@ -3,6 +3,8 @@ title: Propast bohů
 contentType: prose
 ---
 
+<section>
+
 Již několik hodin jsem měl pocit, že se země pod nohama občas lehce, sotva znatelně zachvěje, vždy po několika minutách, ale neodvážil jsem se na to zeptat ani Jagonguy, ani Starého Liu, který kráčel drobnými, pevnými kroky a s obdivuhodnou vytrvalostí. Snad se mi spíše třásly nohy z dlouhého výstupu od široké roviny, plné vysoké zvěře, na první výběžky Hor-které-se-chvějí.
 
 Zvláštní kraj!
@@ -184,3 +186,5 @@ Stařec pomalu dopil šálek a opatrně jej položil na lakovaný stoleček, vy
 „A my…“
 
 „Ano, můj mladší bratře,“ pokýval Lao Liu vážně hlavou, „my tuto hranici překročíme zítra ráno. Kámen se dal na cestu. Kdo jej může zastavit?“
+
+</section>

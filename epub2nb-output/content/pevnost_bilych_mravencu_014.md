@@ -3,20 +3,26 @@ title: Bílá zvířata
 contentType: prose
 ---
 
+<section>
+
 Máme s Fanýnkem Bendou takovou malou, hezkou a docela soukromou vzpomínku ze společné cesty do Mongolska, kam nás před několika léty poslal náš ústav – pochopitelně na lov mravenců. Na široširé mírně zvlněné a naprosto liduprázdné voňavé stepi, kde se křižovaly stovky a tisíce vyšlapaných i vyježděných cest a cestiček, stál u jedné z těch nejbezvýznamnějších osamělý sloup s dopravní značkou: zákaz odbočování vpravo. Považovali jsme to nakonec buď za ukázku osobitého mongolského humoru nebo za dobrou vůli nějak uplatnit soudružskou pomoc spřátelených zemí, projevující se v tomto případě poněkud originálně dodávkami dopravních značek.
 
 Něco podobného mne potkalo i teď.
 
 Sotva dvě hodiny cesty od tábora mrtvého slona – ani v noci se zbytků masa žádné zvíře nedotklo, což Jagonguu znovu mimořádně rozrušilo – jsme uprostřed pustého veldu s ostrou, hořkou trávou a s nízkými pichlavými křovisky narazili na řadu zrezivělých tabulek, rozestavěných asi v padesátimetrových odstupech na obě strany, kam až oko dohlédlo. Anglický nápis na každé z nich hlásal:
 
-  
+</section>
+
+<section>
 
 !SOUKROMÝ MAJETEK!
 
 VSTUP POUZE NA VLASTNÍ NEBEZPEČÍ  
 A SE SVOLENÍM MAJITELE
 
-  
+</section>
+
+<section>
 
 Podobné výstrahy, příkazy a zákazy lemují ovšem v Anglii všechny říční břehy jako problematická ochrana pozemků pánů statkářů proti nevítaným návštěvníkům, hemžícím se na loďkách a toužícím po kousíčku nezakázaného místa k uspořádání pikniku. Ale tady, na veldu? Zdálo se, že jediným stálým obyvatelem širého okolí je starý Mvua – a o jeho obeznámenosti s obtížným uměním číst jsem měl vážné pochybnosti. I _tohle_ mohl být zvláštní druh humoru – anebo něco jiného a nebezpečnějšího: znamení, že se Pán bílých mravenců po všech stránkách zajišťuje a že je patrně v dobrém styku s úřady. Což v některých mladých a chudých státech Afriky, jejichž ministři si nechávají pro své vily posílat mramor letecky z Evropy, není při dostatečně nacpané kapse nic nedosažitelného.
 
@@ -113,3 +119,5 @@ Zvedl jsem nad jeho výstřední zdvořilostí oči k nebi, ale pak jsem se vě
 Vysunul jsem okuláry co nejvíce. Sláva! Podařilo se mi zaostřit i na tak blízko – a ačkoli jsem to neměl v úmyslu, vykřikl jsem úžasem.
 
 _Zvířata_, která se pohybovala po vyšlapané, asi píď široké stezce, byla sice termitům podobná, ale termiti to v žádném případě nebyli.
+
+</section>

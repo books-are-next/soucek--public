@@ -3,6 +3,8 @@ title: Vyslanec země bílých mravenců (část deníku)
 contentType: prose
 ---
 
+<section>
+
 Snad má doktor Klátil pravdu, snad se opravdu tímto způsobem dopracuji ztracených šesti měsíců, vymazaných ze života a dokonale zapomenutých. Zatím si jen bezradně prohlížím nefritového jelínka, podivný měřicí přístroj, v němž byli kdysi zřejmě uzavřeni termiti, nejspíše druhu Termes mangenzis, jehož vojáci jsou vyzbrojeni na hlavách jakýmisi choboty, stříkačkami, vystřelujícími proti nepřátelům kapky pronikavě čpavé tekutiny. Ani to však nepomohlo rozluštit účel přístroje, ačkoli jsem s ním zřejmě pracoval. Soudím tak podle toho, že jsem podvědomě, bez námahy nalezl všechny mechanismy obsluhy a na pokyn poručíka Šolty, abych vyměnil baterii, bez váhání odsunul sotva znatelné víčko, skrývající maličký elektrický článek, podobný tabletce aspirinu.
 
 Nedovedu nic říci ani o pistoli, kterou mi poručík ukázal. Nevím, nepamatuji se. Vzpomínky, začínající opět strašným snem o obrovském termitu, kráčejícím městem, a o obludném zvonu, končí téměř o půl roku dříve podivnou příhodou, jež se odehrála jednoho červnového dne. Od tohoto okamžiku nevím nic, vůbec nic.
@@ -11,7 +13,9 @@ Tenkrát jsem v novinách nalezl dosti nápadné a patrně i dosti nákladné
 
 Inzerát vypadal lákavě:
 
-  
+</section>
+
+<section>
 
 _Přijme se mladý vědecký pracovník-entomolog,  
 se zkušenostmi z biologie mravenců a všekazů.  
@@ -20,7 +24,9 @@ a podíl na expedicích do světových lokalit.
 Předběžné nabídky urychleně hlaste  
 telefonicky do hotelu Alcron, pokoj č. 69._
 
-  
+</section>
+
+<section>
 
 Není sice právě zvykem pospíchat při výběru vědeckých pracovníků a tím méně je shánět telefonem, ale kdoví, jaký podivín inzerát uveřejnil. Nenapadlo mne tenkrát ani, že „mladých vědeckých pracovníků se zkušenostmi z biologie mravenců a všekazů“ je u nás jako za krejcar plutonia, co by na prstech spočítal. A že je například já sám všechny výborně osobně znám – a jak by také ne! Štědrý autor inzerátu si mohl ušetřit výdaje, kdyby byl promluvil s kterýmkoli z nás. Člověk je zkrátka dodatečně vždycky chytřejší…
 
@@ -119,3 +125,5 @@ Barnard chvíli mlčel a díval se na mne temnými ploškami brýlí. Tentokrá
 Trochu mne zamrazilo. Ještě na cestě dolů, po tlustých kobercích, položených na schody, jsem měl vážné pochybnosti, zda jsem neprohloupil. A zda si snad ze mne neudělal bývalý pan doktor Barnard dobrý den. Nahmátl jsem v kapse šek a přečetl si ho na odpočivadle před velikánským zrcadlem.
 
 Zněl na deset tisíc dolarů.
+
+</section>
