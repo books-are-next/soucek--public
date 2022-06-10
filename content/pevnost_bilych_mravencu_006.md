@@ -3,6 +3,8 @@ title: Vonící krabička
 contentType: prose
 ---
 
+<section>
+
 Po zahradě, vlastně po tom, co v létě bylo zahradou Ústřední vojenské nemocnice ve Střešovicích a co teď zima změnila v jedinou sněhovou pláň, přerušovanou tu a tam vyšlapanými cestami a zachumlanými keři, podobnými sněhulákům, se proháněl mrazivý vítr. Vnikal s oblaky prachového sněhu pod prošívané pláště nemocných, kteří i v tomhle nečase museli přejít za vyšetřením z jedné budovy do druhé, a nepříjemně foukal i na jinak dost chráněném balkónu vnitřního oddělení, kde jsem seděl s poručíkem Šoltou. Sedával jsem tu každý den od té doby, kdy jsem směl vstát a trochu se belhat kolem postele, zesláblý, vousatý a strašně hubený, skutečně jako fakír. Sestřička Marcela se vůbec nemýlila. Nevěděl jsem, jak jsem vypadal dříve. Hluboce jsem však věřil, že _takhle_ přece jenom ne.
 
 Sestra Marcela mne sem vozila v jednom z „automobilů“, jak se v nemocnici říkává pojízdným křeslům, řádně zabalila do celého souboru pokrývek a ponechala na předepsaných dvacet minut na pospas osudu a dnes také poručíku Šoltovi. Chodil téměř denně. Vlastně ani nevím, zda ze služební povinnosti, která mu předpisovala stále znovu pátrat po mé minulosti, jménu a všech ostatních náležitostech, bez nichž se člověk ve světě stěží obejde. Já je neměl. Byl jsem Muž z Měsíce, i když to už přede mnou sestry a lékaři raději nevyslovovali.
@@ -98,3 +100,5 @@ Ne – teď už přece nesmí přijít zvon – ani obrovský bílý mravenec,
 Docela zbytečně.
 
 Už jsem věděl, kým jsem.
+
+</section>

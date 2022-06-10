@@ -3,6 +3,8 @@ title: Člověk z Měsíce
 contentType: prose
 ---
 
+<section>
+
 Zvon tak obrovský, že asi vznikl roztavením a novým slitím všech zvonů světa, se pomalu rozhoupal a naplnil prostor duněním, rozechvívajícím zdi domů, kovovým třeskem a nesnesitelně pronikavými vibracemi, drásajícími sluch. Město se svíjelo pod bičem toho hrozného zvuku, tu a tam se sesula budova v oblacích prachu jak domek z karet. Hejna vyděšených holubů šíleně narážela do věží (pokud ještě věže stály a pokud je zvon už nerozdrtil na rudou a šedou změť cihel, omítky a malty), hledala záchranu v slepých oknech i pod oblouky mostů. Lidé někam zmizeli – snad museli všichni zastávat práci zvoníků u obrovských lan, visících od vražedného zvonu.
 
 To všechno ještě nebylo nejhorší. Věděl jsem, že skutečná hrůza teprve přijde, že zvon, řícení domů a požáry, které se už počaly tu a tam objevovat, jsou jenom předehrou, jenom úvodem k čemusi daleko horšímu.
@@ -114,3 +116,5 @@ Naneštěstí ne nadlouho. Cítil jsem, jak mne doktor popleskává po tváři a
 Co to říkal doktor o mých věcech? Prý jsou na nočním stolku… Pomalu a namáhavě, centimetr po centimetru jsem otočil hlavu. Přes horstvo polštáře, v němž jsem měl zabořenou hlavu, jsem opravdu uviděl několik drobností, srovnaných do úhledné hromádky. Nepoznával jsem žádnou z nich, ale hned nahoře, na samém vrchu hromádky, ležel zelený kámen podivného tvaru. Kámen, který jsem viděl v šachtě zříceného schodiště v rukou Číňana a z něhož na mne stříkaly příjemně chladící krůpěje. Před očima se mi zatmělo. Cožpak to všechno nebyl jenom hrozný sen?
 
 A někde daleko, hrozně daleko se rozhoupával obrovský zvon, slitý ze všech zvonů světa a jeho srdce počalo narážet na stěny zvukem, který rozechvěl stěny a bolel ve všech kostech. Propadal jsem se někam dolů, pořád dolů. Už hluboko ve vírech bezvědomí jsem slyšel vykřiknout rozcuchaného brýlatého doktora, slyšel jsem tříštění šálku, který asi choval kafe od laskavé sestry Marcely, a pak už jen zvon, jenom ohromný, strašný zvon…
+
+</section>

@@ -3,6 +3,8 @@ title: Hospoda U nosorožce
 contentType: prose
 ---
 
+<section>
+
 Škvírami mezi tabulemi vlnitého plechu, tu a tam halabala doplněnými a vyspravenými reklamními štíty Coca-Coly nebo Cinzana, bylo vidět zářivé africké hvězdy, třepotající se všemi barvami duhy. Všude kolem řádili cvrčkové a cikády. Od baru hospody U nosorožce, v jejímž prázdném skladišti jsem byl právě pod zámkem, chraptěl dýchavičný gramofon odrhovačky, které ve staré dobré Evropě vyšly už před dvaceti lety navždy z módy. Od ohně, obklopeného v patřičné vzdálenosti od bílých pánů (což kontroloval a zařizoval obrovský černý Núbijec se zlatými kruhy v uších) několika lovci kmene Meru a Buganda, se do toho mísil rytmický, jednotvárný zpěv.
 
 To vše jsem měl ovšem příležitost uvidět pouze na okamžik, když mne roztomilý pan kolega Barnard eskortoval s namířenou pistolí kolem hospody, utopené v pralese a sloužící na dlouhé stovky kilometrů jako jediný útulek motoristů a karavan nákladních toyot, unimagů a bedfordů, zajišťujících přepravu zboží po všech silnicích Afriky. Cesna přistála asi dva kilometry odtud na kusu pisty, pečlivě zbavené termitišť a se zasypanými norami všelijaké havěti, protože jsme si neurazili podvozek a sedli dokonce poměrně klidně.
@@ -86,3 +88,5 @@ Chytil mne za ruku. Neviděl jsem mu do tváře, byl pro mne jenom stínem, čer
 Stín po mém boku se neslyšně zasmál.
 
 „Ano, bwana, bratříčkové tančí. Tančili tady odedávna a dnes si na svůj zvyk zase vzpomněli. Není to šťastná náhoda, bwana?“
+
+</section>

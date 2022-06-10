@@ -3,6 +3,8 @@ title: Starý Liu
 contentType: prose
 ---
 
+<section>
+
 „Ano, je to on,“ řekl potěšeně Lao Liu, Starý Liu, když jsem vyjmul z kapsy košile nefritový obrázek s řezbou jelena. Vzal jsem si ho s sebou z Prahy, ačkoli mne poručík Šolta upozorňoval na jeho vzácnost. Jeho šetrná duše asi neschvalovala takové riziko.
 
 „Je to on, milý mladší bratře! Dobře, že jste ho přinesl. Nežli jsem si vás řádně prohlédl, pochyboval jsem dokonce o vaší totožnosti. Velmi jste se změnil, příteli. Opravdu!“
@@ -92,3 +94,5 @@ Starý Číňan na okamžik přivřel víčka a promnul si suché, štíhlé pr
 „Ano, ano, můj mladší bratře. To, o čem vyprávíte, je _skutečný_ Přízrak smrti Pána bílých mravenců. Ale teď si vy i Jagongua odpočiňte. Budoucnost znají jen bohové a snad ani oni tak docela ne. Přesto jsem si však jistý, že příští dny budeme mít velmi mnoho na práci. Dobrý oddech vám oběma!“
 
 Maskovací sítí pronikalo slunce zlatými dukáty, vrhanými na plátno stanu a na krátkou, teď už sešlapanou trávu dongy. Na východním obzoru jsem za skupinkami stromů a tečkami vysoké zvěře viděl v prašném oparu lehce, jako štětcem čínského malíře tuší naznačený obrys Hor-které-se-chvějí. Někde za nimi byla říše bílých mravenců. A její šéf.
+
+</section>

@@ -3,6 +3,8 @@ title: Železné mouchy
 contentType: prose
 ---
 
+<section>
+
 Franta Benda se na mne ode dveří pátravě zadíval, naklonil zcela po svém zvyku hlavu, ozdobenou značně prořídlými slámovými vlasy, napřed k pravému, pak k levému rameni, a nakonec prohlásil: „Ne, docela určitě ne. Tohle přece…“
 
 „Ale ano, Frantíku! To víš, že jsem to já. A jak ti dupou mravenci? Pořád ještě to tvoje zamilované Tetramorium caespitum? Už ti neutíkají doma po pokoji? Pamatuješ, jak jsme je jednou honili z gauče?“
@@ -80,3 +82,5 @@ Chvíli jsme mlčeli.
 „Opravdu nevím, jestli mne ty vzpomínky potěší…,“ řekl jsem nakonec. V tu chvíli se objevila ve dveřích plavá kštice sestřičky Marcely.
 
 „Tak, a máte sbaleno, pane doktore!“ řekla o poznání smutněji než jindy.
+
+</section>
