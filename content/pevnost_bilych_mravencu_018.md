@@ -23,7 +23,15 @@ Jagongua se chvíli ošíval, chvíli váhal, ale pak přece jen zdráhavě rozv
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 BIJOUX DE BOHÊME – MADE IN CSSR
+
+</div>
+
+</div>
 
 </section>
 
