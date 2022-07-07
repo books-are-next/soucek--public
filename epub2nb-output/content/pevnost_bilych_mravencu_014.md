@@ -15,10 +15,26 @@ Sotva dvě hodiny cesty od tábora mrtvého slona – ani v noci se zbytků ma
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 !SOUKROMÝ MAJETEK!
+
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
 
 VSTUP POUZE NA VLASTNÍ NEBEZPEČÍ  
 A SE SVOLENÍM MAJITELE
+
+</div>
+
+</div>
 
 </section>
 
