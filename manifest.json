@@ -1,0 +1,360 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Pevnost bílých mravenců",
+  "author": "Ludvík Souček",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "soucek-pevnost-bilych-mravencu-e962242",
+  "revision": "e962242",
+  "readingOrder": [
+    "promo.html",
+    "pevnost_bilych_mravencu_005.html",
+    "pevnost_bilych_mravencu_006.html",
+    "pevnost_bilych_mravencu_007.html",
+    "pevnost_bilych_mravencu_008.html",
+    "pevnost_bilych_mravencu_009.html",
+    "pevnost_bilych_mravencu_010.html",
+    "pevnost_bilych_mravencu_011.html",
+    "pevnost_bilych_mravencu_012.html",
+    "pevnost_bilych_mravencu_013.html",
+    "pevnost_bilych_mravencu_014.html",
+    "pevnost_bilych_mravencu_015.html",
+    "pevnost_bilych_mravencu_016.html",
+    "pevnost_bilych_mravencu_017.html",
+    "pevnost_bilych_mravencu_018.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 24 2022 22:38:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658702337141
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pevnost_bilych_mravencu_005.html",
+      "toc": []
+    },
+    {
+      "title": "Člověk z Měsíce",
+      "file": "pevnost_bilych_mravencu_005.html",
+      "words": 2642,
+      "chars": 16005,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "pevnost_bilych_mravencu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk z Měsíce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vonící krabička",
+      "file": "pevnost_bilych_mravencu_006.html",
+      "words": 1735,
+      "chars": 10808,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pevnost_bilych_mravencu_005.html",
+      "next": "pevnost_bilych_mravencu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vonící krabička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Železné mouchy",
+      "file": "pevnost_bilych_mravencu_007.html",
+      "words": 1274,
+      "chars": 7620,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pevnost_bilych_mravencu_006.html",
+      "next": "pevnost_bilych_mravencu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Železné mouchy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyslanec země bílých mravenců (část deníku)",
+      "file": "pevnost_bilych_mravencu_008.html",
+      "words": 2014,
+      "chars": 12905,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pevnost_bilych_mravencu_007.html",
+      "next": "pevnost_bilych_mravencu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyslanec země bílých mravenců (část deníku)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Setkání nad Bejrútem",
+      "file": "pevnost_bilych_mravencu_009.html",
+      "words": 2213,
+      "chars": 13962,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pevnost_bilych_mravencu_008.html",
+      "next": "pevnost_bilych_mravencu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Setkání nad Bejrútem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hospoda U nosorožce",
+      "file": "pevnost_bilych_mravencu_010.html",
+      "words": 1615,
+      "chars": 10183,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pevnost_bilych_mravencu_009.html",
+      "next": "pevnost_bilych_mravencu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hospoda U nosorožce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přízrak smrti",
+      "file": "pevnost_bilych_mravencu_011.html",
+      "words": 2163,
+      "chars": 13771,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pevnost_bilych_mravencu_010.html",
+      "next": "pevnost_bilych_mravencu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízrak smrti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý Liu",
+      "file": "pevnost_bilych_mravencu_012.html",
+      "words": 1847,
+      "chars": 11544,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pevnost_bilych_mravencu_011.html",
+      "next": "pevnost_bilych_mravencu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý Liu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Propast bohů",
+      "file": "pevnost_bilych_mravencu_013.html",
+      "words": 3629,
+      "chars": 22921,
+      "ideas": 92,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pevnost_bilych_mravencu_012.html",
+      "next": "pevnost_bilych_mravencu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Propast bohů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílá zvířata",
+      "file": "pevnost_bilych_mravencu_014.html",
+      "words": 2643,
+      "chars": 16856,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pevnost_bilych_mravencu_013.html",
+      "next": "pevnost_bilych_mravencu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílá zvířata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modré plameny",
+      "file": "pevnost_bilych_mravencu_015.html",
+      "words": 3506,
+      "chars": 21674,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pevnost_bilych_mravencu_014.html",
+      "next": "pevnost_bilych_mravencu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modré plameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběh bílých mravenců",
+      "file": "pevnost_bilych_mravencu_016.html",
+      "words": 3076,
+      "chars": 19337,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pevnost_bilych_mravencu_015.html",
+      "next": "pevnost_bilych_mravencu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příběh bílých mravenců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bouře",
+      "file": "pevnost_bilych_mravencu_017.html",
+      "words": 4178,
+      "chars": 26274,
+      "ideas": 110,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pevnost_bilych_mravencu_016.html",
+      "next": "pevnost_bilych_mravencu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bouře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jitro",
+      "file": "pevnost_bilych_mravencu_018.html",
+      "words": 414,
+      "chars": 2657,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pevnost_bilych_mravencu_017.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jitro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 914,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "pevnost_bilych_mravencu_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 33091,
+      "chars": 207470,
+      "ideas": 841
+    },
+    "chapters": {
+      "words": 32949,
+      "chars": 206517,
+      "ideas": 823
+    }
+  }
+}
