@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "soucek-pevnost-bilych-mravencu-e528fcd",
-  "revision": "e528fcd",
+  "identifier": "soucek-pevnost-bilych-mravencu-744d29e",
+  "revision": "744d29e",
   "readingOrder": [
     "promo.html",
     "pevnost_bilych_mravencu_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:55:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150940533
+    "date": "Mon Oct 10 2022 15:47:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416874042
   },
   "documents": [
     {
@@ -328,7 +328,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 914,
+      "chars": 915,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -348,7 +348,7 @@
   "totals": {
     "all": {
       "words": 33091,
-      "chars": 207470,
+      "chars": 207471,
       "ideas": 841
     },
     "chapters": {
