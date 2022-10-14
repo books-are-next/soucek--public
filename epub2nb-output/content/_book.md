@@ -10,9 +10,10 @@ meta:
   author: Ludvík Souček
   publisher: Městská knihovna v Praze
   modified: '2020-06-12T00:00:00.000Z'
-  isbn: 978-80-274-0884-9
+  isbn: 978-80-274-2827-4
   contentType: prose
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - pevnost_bilych_mravencu_005.html
